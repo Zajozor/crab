@@ -1,6 +1,6 @@
 # 🦀 Crab - see how loud you are
 
-![](https://img.shields.io/tokei/lines/github/zajozor/crab)
+![](https://img.shields.io/badge/lines%20of%20Rust-%3C75-blue)
 ![](https://img.shields.io/github/v/release/zajozor/crab)
 ![](https://img.shields.io/badge/platform-macos-blue)
 ![](https://img.shields.io/badge/status-maintained%20--%20contributions%20welcome-blue)
@@ -8,6 +8,7 @@
 🦀 Crab is a minimalistic (currently only 🍏 MacOS) Rust app,
 which adds a system tray icon.
 The **system tray icon shows a number between 0 and 100 describing how loud is the 🎤 input captured by the default input device** on your system.
+This helps you to **NOT 🔊 SHOUT DURING A CALL WITH NOISE CANCELLING 🎧 HEADPHONES**.
 
 🎥 Pics or didn't happen? 👇👇
 
