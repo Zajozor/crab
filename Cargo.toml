@@ -1,0 +1,9 @@
+[package]
+name = "crab"
+version = "0.1.0"
+authors = ["zajozor <github@zajo.io>"]
+edition = "2018"
+
+[dependencies]
+cocoa = "0.24"
+cpal = {version="0.13.1"}
